@@ -1,0 +1,21 @@
+-----------------------------------------------
+Author:		Aaron Iemma
+Last change:	22/09/2013
+Title:		Gumbel_Hydrological_Analysis
+Code:		R
+
+Creative Commons Attribution 3.0 License, 
+http://creativecommons.org/licenses/by/3.0/it/ 
+-----------------------------------------------
+
+
+General functions for easy plotting and analysis of hydrological precipitations data.
+
+Example of command run is provided into the "comandi.R" file: change the R working directory to the current one and simply source the same file:
+>source("comandi.R")
+to get some graphs of datas inside "max_cles" text precipitation file.
+
+Take a look at the data structures created (>ls())
+
+
+
